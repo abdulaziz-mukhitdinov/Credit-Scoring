@@ -1,0 +1,2 @@
+# Credit-Scoring
+MY FIRST ML SERVICE ON FASTAPI
